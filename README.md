@@ -5,7 +5,7 @@
 **Dark Slate**, a dark themed [Visual studio code]() extension
 ## Preview
 
-[![Preview in https://marketplace.visualstudio.com](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://marketplace.visualstudio.com/items?itemName=atrickop.dark-slate)
+[![Preview in marketplace.visualstudio.com](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://marketplace.visualstudio.com/items?itemName=atrickop.dark-slate)
 
 ## Screenshots
 
