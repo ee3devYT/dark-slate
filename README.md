@@ -11,6 +11,8 @@
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/873587493008715856/937003877075648512/unknown.png)
 
+## Version
+`1.0.1`
 
 ## Author
 
@@ -20,4 +22,7 @@
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Support
+[Click here](https://discord.gg/xHFzeDKwbr) to join our discord server
 
